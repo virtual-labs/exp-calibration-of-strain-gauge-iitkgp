@@ -2,37 +2,58 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which of the following is used to measure mechanical strain?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Thermocouple",
+        "b": "Strain Gauge",
+        "c": "Pressure Transducer",
+        "d": "Hall Effect Sensor"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following factors can affect the accuracy of strain gauge measurements?",
+      "answers": {
+        "a": "Length of the lead wires",
+        "b": "Color of the strain gauge",
+        "c": "Temperature variations",
+        "d": "Ambient humidity levels"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the significance of a Poisson's ratio in strain gauge measurements?",
+      "answers": {
+        "a": "It relates strain in one direction to strain in another direction",
+        "b": "It determines the electrical resistance of the strain gauge",
+        "c": "It measures the temperature sensitivity of the strain gauge",
+        "d": "It represents the gauge's resistance to environmental factors"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which of the following is a common method to measure strain in a material without using strain gauges?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Ultrasonic testing",
+        "b": "Magnetic resonance imaging (MRI)",
+        "c": "X-ray diffraction",
+        "d": "Laser interferometry"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A strain gauge exhibits an initial resistance of 100 ohms and undergoes a change in resistance of 2.5 ohms when subjected to a strain. If the excitation voltage (Vs) is 12 volts, what will be the output voltage (V) of the strain gauge?",
+      "answers": {
+        "a": "100 millivolts",
+        "b": "200 millivolts",
+        "c": "260 millivolts",
+        "d": "300 millivolts"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
