@@ -1,0 +1,60 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which principle is the basis for the operation of a strain gauge?",
+      "answers": {
+        "a": "Piezoelectric effect",
+        "b": "Piezoresistive effect",
+        "c": "Photoelectric effect",
+        "d": "Magnetic resonance"
+      },
+      "correctAnswer": "b",
+      "difficulty": "Beginner"
+    },
+    {
+      "question": "What is the function of Wheatstone bridge circuit in strain gauge measurements?",
+      "answers": {
+        "a": "Amplify the strain signal",
+        "b": "Provide power to the strain gauge",
+        "c": "Compensate for temperature changes",
+        "d": "Detect and measure changes in resistance"
+      },
+      "correctAnswer": "d",
+      "difficulty": "Beginner"
+    },
+    {
+      "question": "What is the purpose of applying known loads during strain gauge calibration?",
+      "answers": {
+        "a": "To measure strain directly",
+        "b": "To test the strain gauge's durability",
+        "c": "To determine the resistance of the gauge",
+        "d": "To establish a relationship between load and resistance change"
+      },
+      "correctAnswer": "d",
+      "difficulty": "Beginner"
+    },
+    {
+      "question": "The calibration curve of a strain gauge is typically:",
+      "answers": {
+        "a": "Non-linear",
+        "b": "Exponential",
+        "c": "S-shaped",
+        "d": "Linear"
+      },
+      "correctAnswer": "d",
+      "difficulty": "Beginner"
+    },
+    {
+      "question": "What does the sensitivity of a strain gauge represent?",
+      "answers": {
+        "a": "The strain it can measure",
+        "b": "The change in resistance per unit load",
+        "c": "Its resistance when no load is applied",
+        "d": "Its temperature stability"
+      },
+      "correctAnswer": "b",
+      "difficulty": "Beginner"
+    }
+  ]
+}
