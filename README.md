@@ -15,7 +15,8 @@
 Strain gauges are widely used instruments for measuring mechanical deformation or strain in materials. When external forces are applied to a stationary object, stress and strain are the result. A Strain gauge is basically a sensor whose resistance varies with applied force. It converts force, pressure, tension, weight etc., into a change in electrical resistance which can then be measured. 
 
 <div align="center">
-<img class="img-fluid"  src="experiment/images/gauge.png" alt=""><br>           
+<img class="img-fluid"  src="experiment/images/gauge.png" alt=""><br> 
+<b>Fig. 1. Strain Gauge Construction</b>
 </div>
 
 <b>Subject matter expertise | <b> **Dr. Poonam Sundriyal**

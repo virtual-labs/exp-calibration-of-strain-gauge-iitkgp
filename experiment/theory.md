@@ -18,9 +18,9 @@ $$V_{out} = \frac{V_{in}*(\frac{\Delta R}{R})}{S}$$
 
 Where:
 
-Vout is the output voltage.
+V<sub>out</sub> is the output voltage.
 
-Vin is the excitation voltage applied to the bridge.
+V<sub>in</sub> is the excitation voltage applied to the bridge.
 
 &Delta;R is the change in resistance of the strain gauge.
 

@@ -3,7 +3,7 @@
 
 <div align="center">
 <img class="img-fluid"  src="./images/conn.jpg" alt=""><br> 
-Figure 1. Strain-gauge circuit         
+<b>Figure 1. Strain-gauge circuit</b>         
 </div>
 
 
@@ -11,7 +11,7 @@ Figure 1. Strain-gauge circuit
 
 <div align="center">
 <img class="img-fluid"  src="./images/conn2.jpg" alt=""><br> 
- Strain Measurement Trainer Kit in simulation          
+ <b>Figure 2. Strain Measurement Trainer Kit in simulation </b>         
 </div>
 
 2. Click on 'Table' at the bottom of the page to see the observation table and click on 'Add to Table' button to observe the strain without load. Some non zero value will come due to

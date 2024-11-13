@@ -3,7 +3,7 @@
 #### Books
 1. Keil, S. (2017). Technology and practical use of strain gages: with particular consideration of stress analysis using strain gages. John Wiley & Sons.
 
-#### websites
+#### Websites
 
 1. NPTEL (e-learning courses from IITs and IISC)
 
