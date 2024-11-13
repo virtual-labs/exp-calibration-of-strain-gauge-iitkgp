@@ -274,7 +274,7 @@ const data = [{
 }];
 
 const layout = {
-	title:"Output voltage(V) vs. Applied Load(g)",
+	title:"Output voltage (V) vs. Applied Load (g)",
 
 xaxis: {
 	showgrid: true,
@@ -289,7 +289,7 @@ xaxis: {
     linewidth: 2,
 	
     title: {
-      text: 'Applied Load(g)',
+      text: 'Applied Load (g)',
       font: {
         family: 'Times New Roman, monospace',
         size: 18,
@@ -311,7 +311,7 @@ xaxis: {
     linewidth: 2,
 	
     title: {
-      text: 'Output Voltage(V)',
+      text: 'Output Voltage (V)',
 	  
       font: {
         family: 'Times New Roman, monospace',
