@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Which principle is the basis for the operation of a strain gauge?",
+      "question": "1. Which principle is the basis for the operation of a strain gauge?",
       "answers": {
         "a": "Piezoelectric effect",
         "b": "Piezoresistive effect",
@@ -13,7 +13,7 @@
       "difficulty": "Beginner"
     },
     {
-      "question": "What is the function of Wheatstone bridge circuit in strain gauge measurements?",
+      "question": "2. What is the function of Wheatstone bridge circuit in strain gauge measurements?",
       "answers": {
         "a": "Amplify the strain signal",
         "b": "Provide power to the strain gauge",
@@ -24,7 +24,7 @@
       "difficulty": "Beginner"
     },
     {
-      "question": "What is the purpose of applying known loads during strain gauge calibration?",
+      "question": "3. What is the purpose of applying known loads during strain gauge calibration?",
       "answers": {
         "a": "To measure strain directly",
         "b": "To test the strain gauge's durability",
@@ -35,7 +35,7 @@
       "difficulty": "Beginner"
     },
     {
-      "question": "The calibration curve of a strain gauge is typically:",
+      "question": "4. The calibration curve of a strain gauge is typically:",
       "answers": {
         "a": "Non-linear",
         "b": "Exponential",
@@ -46,7 +46,7 @@
       "difficulty": "Beginner"
     },
     {
-      "question": "What does the sensitivity of a strain gauge represent?",
+      "question": "5. What does the sensitivity of a strain gauge represent?",
       "answers": {
         "a": "The strain it can measure",
         "b": "The change in resistance per unit load",
