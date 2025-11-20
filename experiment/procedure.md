@@ -1,29 +1,22 @@
 ## Procedure
 
+1.	To initiate the experiment, the strain measurement kit, which is provided in the simulation section, is activated by clicking the Power button (Fig. 1). To follow the instructions on the simulation page, please click on the blue ‘Instructions’ tab.
 
 <div align="center">
-<img class="img-fluid"  src="./images/conn.jpg" alt=""><br> 
-<b>Figure 1. Strain-gauge circuit</b>         
+<img class="img-fluid"  src="./images/conn2.png" alt="">
+
+ <b>Fig. 1. Simulation interface for calibration of the strain gauge </b>         
 </div>
 
+2.	Upon clicking the 'Table' button situated at the bottom of the page, the observation table will show up. To observe the strain in the absence of any load, one must select the 'Add to Table' option. A non-zero value will be displayed as a result of the strain gauge's sensitivity.
 
-1. First switch on the Strain Measurement Trainer kit by clicking on 'Power' button. 
+3.	To incorporate the load onto the cantilever beam, one must first engage the '+' sign on the 'Add or Remove Load' button, followed by a subsequent click on the 'Add to Table' button to achieve the intended outcome in the observation table for the specified load.
 
-<div align="center">
-<img class="img-fluid"  src="./images/conn2.jpg" alt=""><br> 
- <b>Figure 2. Strain Measurement Trainer Kit in simulation </b>         
-</div>
+4.	The loads may be adjusted in increments of 100 g by utilizing the '+' and '-' buttons located in the 'Add or Remove Load' tab. Following each alteration of the load, it is imperative to revisit step 3 in order to compile the observation table corresponding to that specific load.
 
-2. Click on 'Table' at the bottom of the page to see the observation table and click on 'Add to Table' button to observe the strain without load. Some non zero value will come due to
-the sensitivity of strain gauge.
+5.	To acquire the graph illustrating the relationship between 'Output Voltage' and 'Applied Load', one must click the 'Plot' button, which is positioned next to the 'Add to Table' button.
 
-3. Add 100g load to the cantilever beam by clicking on 'Plus' sign on 'Add or Remove Load' button and follow step 2 to get observation for the particular load. 
+6.	Once all the loads are removed from the cantilever beam by utilizing the '-' sign in the 'Add or Remove Load' tab, the trainer kit must be switched off.
 
-4. Vary the loads from 100g to 500g by clicking on 'Plus' sign on 'Add or Remove Load' button and follow step 2 to get observation data after each time increasing the load.
-
-5. Click on 'Plot' button to get the plot between 'Output Voltage' Vs. 'Applied load'.
-
-6. Remove the loads one by one by clicking on 'Minus' sign on 'Add or Remove Load' button and switch off the trainer kit.
-
-7. Click on 'Clear' button to erase the observation data and plot. Click on 'Table' button to hide the observation table.
+7.	The 'clear' button can be pressed to erase all the observation data and plot once the experiment is over. And lastly, for hiding the observation table, one must again click on the 'Table' button.
 
