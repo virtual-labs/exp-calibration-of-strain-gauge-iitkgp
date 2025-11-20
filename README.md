@@ -6,7 +6,7 @@
 
 <b>Discipline | <b> Mechanical Engineering 
 :--|:--|
-<b> Lab | <b> ** Metrology and Measurement Lab**
+<b> Lab | <b> ** Metrology and Measurement Laboratory**
 <b> Experiment|     <b> **Calibration of Strain Gauge and Experiment 4**
 
 
