@@ -25,35 +25,35 @@ Calibration of strain gauges is essential to establish a relationship between th
 
 The piezoresistive effect forms the basis for strain gauge operation. When a conductor, typically a metal foil or semiconductor, is subjected to mechanical strain, its electrical resistance changes. This change in resistance is proportional to the strain experienced by the material. This property is exploited for the accurate measurement of strain. The working principle is illustrated in Fig. 2. 
 
-<table style="border: 1px solid black;border-collapse: collapse;width:100%;margin-left: auto;margin-right: auto;">
+<table style="border: 1px solid black;border-collapse: collapse;width:59.2%;margin-left: auto;margin-right: auto;">
 
 <tr style="border-bottom: 1px solid black;">
     <th colspan=3 style="text-align:center"><b>Table 1:</b> Typical size and strain range of strain gauges</th>
     </tr>
   <tr style="border-bottom: 1px solid black;width:33.33%">
-    <th>Aspect</th>
-    <th>Typical value</th> 
-    <th>Remarks</th>
+    <th style="border-right: 1px solid black;">Aspect</th>
+    <th style="border-right: 1px solid black;">Typical value</th> 
+    <th style="border-right: 1px solid black;">Remarks</th>
   </tr>
   <tr style="border-bottom: 1px solid black;width:33.33%">
-    <td>Active grid length</td>
-    <td>1 – 10 mm</td>
-    <td>Evaluates spatial resolution, shorter for local strains.</td>
+    <td style="border-right: 1px solid black;">Active grid length</td>
+    <td style="border-right: 1px solid black;">1 – 10 mm</td>
+    <td style="border-right: 1px solid black;">Evaluates spatial resolution, shorter for local strains.</td>
   </tr>
   <tr style="border-bottom: 1px solid black;width:33.33%">
-    <td>Overall size</td>
-    <td>5 – 20 mm &times; 4 – 10 mm</td>
-    <td>Incorporates adhesive backing for mounting.</td>
+    <td style="border-right: 1px solid black;">Overall size</td>
+    <td style="border-right: 1px solid black;">5 – 20 mm &times; 4 – 10 mm</td>
+    <td style="border-right: 1px solid black;">Incorporates adhesive backing for mounting.</td>
   </tr>
   <tr style="border-bottom: 1px solid black;width:33.33%">
-    <td>Strain range (operational)</td>
-    <td>± 1000 – 5000 &mu;&epsilon;</td>
-    <td>Preferred for most static/dynamic testing.</td>
+    <td style="border-right: 1px solid black;">Strain range (operational)</td>
+    <td style="border-right: 1px solid black;">± 1000 – 5000 &mu;&epsilon;</td>
+    <td style="border-right: 1px solid black;">Preferred for most static/dynamic testing.</td>
   </tr>
   <tr>
-    <td>Maximum strain</td>
-    <td>± 30000 – 100000 &mu;&epsilon;</td>
-    <td>Only with proper setup, cannot be used regularly.</td>
+    <td style="border-right: 1px solid black;">Maximum strain</td>
+    <td style="border-right: 1px solid black;">± 30000 – 100000 &mu;&epsilon;</td>
+    <td style="border-right: 1px solid black;">Only with proper setup, cannot be used regularly.</td>
   </tr>
 </table>
 
