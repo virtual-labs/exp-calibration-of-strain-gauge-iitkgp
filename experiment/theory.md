@@ -27,25 +27,25 @@ The piezoresistive effect forms the basis for strain gauge operation. When a con
 
 <table style="border: 1px solid black;border-collapse: collapse;width:100%;margin-left: auto;margin-right: auto;">
 
-<tr>
+<tr style="border-bottom: 1px solid black;">
     <th colspan=3 style="text-align:center"><b>Table 1:</b> Typical size and strain range of strain gauges</th>
     </tr>
-  <tr>
+  <tr style="border-bottom: 1px solid black;width:33.33%">
     <th>Aspect</th>
     <th>Typical value</th> 
     <th>Remarks</th>
   </tr>
-  <tr>
+  <tr style="border-bottom: 1px solid black;width:33.33%">
     <td>Active grid length</td>
     <td>1 – 10 mm</td>
     <td>Evaluates spatial resolution, shorter for local strains.</td>
   </tr>
-  <tr>
+  <tr style="border-bottom: 1px solid black;width:33.33%">
     <td>Overall size</td>
     <td>5 – 20 mm &times; 4 – 10 mm</td>
     <td>Incorporates adhesive backing for mounting.</td>
   </tr>
-  <tr>
+  <tr style="border-bottom: 1px solid black;width:33.33%">
     <td>Strain range (operational)</td>
     <td>± 1000 – 5000 &mu;&epsilon;</td>
     <td>Preferred for most static/dynamic testing.</td>
