@@ -25,9 +25,11 @@ Calibration of strain gauges is essential to establish a relationship between th
 
 The piezoresistive effect forms the basis for strain gauge operation. When a conductor, typically a metal foil or semiconductor, is subjected to mechanical strain, its electrical resistance changes. This change in resistance is proportional to the strain experienced by the material. This property is exploited for the accurate measurement of strain. The working principle is illustrated in Fig. 2. 
 
-<b>Table 1:</b> Typical size and strain range of strain gauges
+<table style="border: 1px solid black;border-collapse: collapse;width:100%;margin-left: auto;margin-right: auto;">
 
-<table style="border: 1px solid black;border-collapse: collapse;width:100%">
+<tr>
+    <th colspan=3 style="text-align:center"><b>Table 1:</b> Typical size and strain range of strain gauges</th>
+    </tr>
   <tr>
     <th>Aspect</th>
     <th>Typical value</th> 
