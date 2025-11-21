@@ -27,7 +27,7 @@ The piezoresistive effect forms the basis for strain gauge operation. When a con
 
 <b>Table 1:</b> Typical size and strain range of strain gauges
 
-<table style="position:absolute;left:50%;border: 1px solid;border-collapse: collapse;">
+<table style="border: 1px solid black;border-collapse: collapse;width:100%">
   <tr>
     <th>Aspect</th>
     <th>Typical value</th> 
@@ -76,7 +76,7 @@ Where:
 
 <span style="font-family:'Bodoni MT';font-style:italic">V</span><span style="font-family:'Bodoni MT'"><sub>S</sub></span> is the excitation voltage applied to the bridge.
 
-<span style="font-family:'Bodoni MT';font-style:italic">&Delta;R</span> is the change in resistance of the strain gauge.
+<span style="font-family:'Bodoni MT';">&Delta;</span><span style="font-family:'Bodoni MT';font-style:italic">R</span> is the change in resistance of the strain gauge.
 
 <span style="font-family:'Bodoni MT';font-style:italic">R</span> is the initial resistance of the strain gauge (unstressed).
 
