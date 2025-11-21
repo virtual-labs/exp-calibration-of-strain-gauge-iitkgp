@@ -3,7 +3,7 @@
 Strain gauges are widely used instruments for measuring mechanical deformation or strain in materials. They are based on the principle that the electrical resistance of a conductor changes when subjected to mechanical strain. Various types of strain gauges are displayed in Fig. 1.
 
 <div align="center">
-<img class="img-fluid"  src="./images/fig1.png" alt="">
+<img style="width:60%"  src="./images/fig1.png" alt="">
 
 <b>Fig. 1. Different types of strain gauges [Ref. 4]</b>         
 </div>
@@ -18,14 +18,16 @@ Calibration of strain gauges is essential to establish a relationship between th
 **1.1 Piezoresistive Effect**
 
 <div align="center">
-<img class="img-fluid"  src="./images/fig2.png" alt="">
+<img style="width:60%"  src="./images/fig2.png" alt="">
 
 <b>Fig. 2. Working principle of a strain gauge [Ref. 6]</b>         
 </div>
 
 The piezoresistive effect forms the basis for strain gauge operation. When a conductor, typically a metal foil or semiconductor, is subjected to mechanical strain, its electrical resistance changes. This change in resistance is proportional to the strain experienced by the material. This property is exploited for the accurate measurement of strain. The working principle is illustrated in Fig. 2. 
 
-<table style="width:100%">
+<b>Table 1:</b> Typical size and strain range of strain gauges
+
+<table>
   <tr>
     <th>Aspect</th>
     <th>Typical value</th> 
@@ -57,7 +59,7 @@ The piezoresistive effect forms the basis for strain gauge operation. When a con
 **1.2 Wheatstone Bridge Circuit**
 
 <div align="center">
-<img style="width:80%"  src="./images/fig3.png" alt="">
+<img style="width:60%"  src="./images/fig3.png" alt="">
 
 <b>Fig. 3. Strain-gauge circuit</b>         
 </div>
