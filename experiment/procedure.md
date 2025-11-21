@@ -3,7 +3,7 @@
 1.	To initiate the experiment, the strain measurement kit, which is provided in the simulation section, is activated by clicking the Power button (Fig. 1). To follow the instructions on the simulation page, please click on the blue ‘Instructions’ tab.
 
 <div align="center">
-<img class="img-fluid"  src="./images/conn2.png" alt="">
+<img style="width:60%"  src="./images/conn2.png" alt="">
 
  <b>Fig. 1. Simulation interface for calibration of the strain gauge </b>         
 </div>
