@@ -27,7 +27,7 @@ The piezoresistive effect forms the basis for strain gauge operation. When a con
 
 <b>Table 1:</b> Typical size and strain range of strain gauges
 
-<table>
+<table style="position:absolute;left:50%;border: 1px solid;border-collapse: collapse;">
   <tr>
     <th>Aspect</th>
     <th>Typical value</th> 
