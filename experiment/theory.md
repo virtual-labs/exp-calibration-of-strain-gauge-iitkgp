@@ -5,7 +5,7 @@ Strain gauges are widely used instruments for measuring mechanical deformation o
 <div align="center">
 <img style="width:60%"  src="./images/fig1.png" alt="">
 
-<b>Fig. 1. Different types of strain gauges [Ref. 4]</b>         
+<b>Fig. 1. Different types of strain gauges [Ref. 2 (NPTEL Lectures and Websites)]</b>         
 </div>
 
 Strain gauges are frequently employed to experimentally ascertain the Poisson's ratio of a material. This process generally involves the installation of two strain gauges onto the test specimen. The simultaneous reading of both strains enables the calculation of the ratio. This configuration is commonly integrated within a half-bridge or full-bridge circuit. The precision of strain gauge measurements is affected by a confluence of elements pertaining to the gauge, the surrounding measurement conditions, the material under examination, and the relevant electrical circuitry. Table 1 illustrates the spectrum of sizes and the variety of strains that can be quantified through the utilization of strain gauges. In instances where strain gauges are unavailable, ultrasonic testing emerges as a widely utilized method for evaluating strain within a material.
@@ -20,7 +20,7 @@ Calibration of strain gauges is essential to establish a relationship between th
 <div align="center">
 <img style="width:60%"  src="./images/fig2.png" alt="">
 
-<b>Fig. 2. Working principle of a strain gauge [Ref. 6]</b>         
+<b>Fig. 2. Working principle of a strain gauge [Ref. 4 (NPTEL Lectures and Websites)]</b>         
 </div>
 
 The piezoresistive effect forms the basis for strain gauge operation. When a conductor, typically a metal foil or semiconductor, is subjected to mechanical strain, its electrical resistance changes. This change in resistance is proportional to the strain experienced by the material. This property is exploited for the accurate measurement of strain. The working principle is illustrated in Fig. 2. 
