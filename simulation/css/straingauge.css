@@ -1,0 +1,199 @@
+
+
+
+
+.img-container{	
+	position:relative;
+	display:inline-block;	
+}
+
+#loadDiv{
+	position: absolute;
+    width: 7%;
+    height: 30%;
+    /* border: 2px dotted black; */
+   top: 56%;
+    left: 79%;	
+}
+
+#switch {
+    position: absolute;
+    left: 22.8%;
+    bottom: 77%;
+    width: 4%;
+    height: 11%;
+   
+}
+#dpm {
+    position: absolute;
+    left: 43.8%;
+    bottom: 77%;
+    width: 8.2%;
+    background-color: black;
+    color: gray;
+    text-align: center;
+  }
+
+#wheel{
+    position: absolute;
+    left: 40.6%;
+    top: 45%;
+    width: 31%;
+    height: 63%;
+    z-index: 5;
+}
+#bar {
+    position: absolute;
+    left: 9.2%;
+    top: 10%;
+    width: 80%;
+    height: 45%;
+    z-index: 2;
+
+}
+#holder {
+    position: absolute;
+    left: 23.2%;
+    top: -39%;
+    width: 16%;
+    height: 58%;
+    /* opacity: 0.6; */
+    z-index: 1;
+
+}
+
+#chart_div{
+	
+position:absolute;
+left:35%;
+top:20%;
+width:40%;
+height:25%;	
+	
+}
+#dial{
+	
+position: absolute;
+    left: 1%;
+    top: -8%;
+    width: 10%;
+    color: #0983C8;
+    border: 2px solid #0983C8;
+    text-align: center;	
+}
+
+#pspan{
+	
+position: absolute;
+    left: -1%;
+    top: -80%;
+    width: auto;
+    color: red;
+    font-size: 1vw;
+}
+
+#dstand{
+	
+position: absolute;
+    left: 5%;
+    top: -23%;
+    width: 2%;
+    height: 9%;
+    background-color: #0983C8;
+    font-size: 1vw;
+	z-index:3;
+}
+
+@keyframes moveRobj {
+  from { left: 15.2%; }
+  to { left: 45.2%; };
+  
+}
+@keyframes moveRholder {
+ from { left: 23.2%; }
+  to { left: 54.2%; };
+  
+}
+
+@keyframes moveLobj {
+  from { left: 45.2%; }
+  to { left: 15.2%; };
+  
+}
+@keyframes moveLholder {
+ from { left: 54.2%; }
+  to { left: 23.2%; };
+  
+}
+
+
+.moveRightobj{
+	animation:moveRobj 1s linear forwards;
+	/*transform-origin: 51.9% 45.3%;*/
+}
+.moveLeftobj{
+	animation:moveLobj 1s linear forwards;
+	/*transform-origin: 51.9% 45.3%;*/
+}
+.moveRightholder{
+	animation:moveRholder 1s linear forwards;
+	/*transform-origin: 51.9% 45.3%;*/
+}
+.moveLeftholder{
+	animation:moveLholder 1s linear forwards;
+	/*transform-origin: 51.9% 45.3%;*/
+}
+
+@keyframes movedial {
+  from { left: -6%; }
+  to { left: 18%; };
+  
+}
+@keyframes movestand {
+ from { left: 5%; }
+  to { left: 28%; };
+  
+}
+
+
+.movedial{
+	animation:movedial 1s linear forwards;
+	/*transform-origin: 51.9% 45.3%;*/
+}
+.movestand{
+	animation:movestand 1s linear forwards;
+	/*transform-origin: 51.9% 45.3%;*/
+}
+
+@keyframes movedialL {
+  from { left: 82%; }
+  to { left: 53%; };
+  
+}
+@keyframes movestandL {
+ from { left: 93%; }
+  to { left: 64%; };
+  
+}
+
+
+.movedialL{
+	animation:movedialL 1s linear forwards;
+	/*transform-origin: 51.9% 45.3%;*/
+}
+.movestandL{
+	animation:movestandL 1s linear forwards;
+	/*transform-origin: 51.9% 45.3%;*/
+}
+
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+tr:nth-child(even) {
+  background-color: #D6EEEE;
+}  
+tr:nth-child(odd) {
+  background-color: #F0FBCC;
+} 
