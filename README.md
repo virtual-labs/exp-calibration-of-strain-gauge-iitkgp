@@ -1,24 +1,21 @@
 ## Introduction
 
+<div align="center">
+<img src="experiment/images/iitkgp.png" width="10%">
+</div>
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b> Mechanical Engineering 
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> ** Metrology and Measurement Laboratory**
+<b> Experiment|     <b> **Calibration of Strain Gauge and Experiment 4**
 
-### About the Experiment 
 
-Fill a brief description of this experiment here
+### About the Experiment
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
-:--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+Strain gauges are widely used instruments for measuring mechanical deformation or strain in materials. When external forces are applied to a stationary object, stress and strain are the result. A Strain gauge is basically a sensor whose resistance varies with applied force. It converts force, pressure, tension, weight etc., into a change in electrical resistance which can then be measured. 
 
-### Contributors List
+<div align="center">
+<img class="img-fluid"  src="experiment/images/gauge.png" alt=""><br> 
+<b>Fig. 1. Strain Gauge Construction</b>
+</div>
 
-SrNo | Name | Faculty or Student | Department| Institute | Email id
-:--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
